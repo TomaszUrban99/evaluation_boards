@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L6981C50DR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2022-09-02 16:57:08
+Downloaded=2025-09-04 11:46:40
+3D=Y

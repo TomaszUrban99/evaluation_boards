@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM8S005K6CTR")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/STM8S005K6CTR")(options "")(descr ""))
+  (lib (name "L6981C50DR")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/L6981C50DR/KiCad")(options "")(descr ""))
+  (lib (name "TerminalBlock_2")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/282837-2/KiCad")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L6981C50DR
+D 38 V, 1.5 A synchronous step-down converter with low quiescent current
+K
+F https://www.st.com/resource/en/datasheet/l6981.pdf
+$ENDCMP
+#
+#End Doc Library
