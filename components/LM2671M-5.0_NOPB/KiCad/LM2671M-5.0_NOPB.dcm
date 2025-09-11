@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2671M-5.0_NOPB
+D SIMPLE SWITCHER Power Converter High Efficiency 500mA Step-Down Voltage Regulator with Features
+K
+F http://www.ti.com/lit/ds/symlink/lm2671.pdf
+$ENDCMP
+#
+#End Doc Library

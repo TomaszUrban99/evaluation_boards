@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM2671M-5.0/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=3.1
+Released=2015-04-16 09:48:08
+Downloaded=2025-09-10 16:12:43
+3D=Y
