@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_14888500"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-25-05:06:19)
+    (utime 2024-03-13-20:15:41)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "830029914")
+)
+
+
+(pinAssign "ECS_14888500"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-25-05:06:19)
+    (utime 2024-03-13-20:15:41)
+    (interface
+        (port "1" (symbPinId 1) (portName "CRYSTAL__1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "CRYSTAL__2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14888500")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "830029914")
+)
+
+
+(part "830029914"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-07-25-05:06:19)
+    (utime 2024-03-13-20:15:41)
+    (packageRef "830029914")
+    (pinAssignRef "ECS_14888500")
+    (interface
+        (port "1" (symbPinId 1) (portName "CRYSTAL__1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "CRYSTAL__2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "CRYSTAL 8.0000MHZ 16PF SMD, 8 MHz +/-30ppm Crystal 16pF 40 Ohms HC-49/US")
+    (property "Mouser_Part_Number" "710-830029914")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830029914?qs=2WXlatMagcFLB4xuFZTwcA%3D%3D")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "830029914")
+    (property "Datasheet_Link" "https://www.we-online.com/catalog/datasheet/830029914.pdf")
+    (property "compAreaTopHeight" 4.3)
+)
+
+

@@ -1,0 +1,16 @@
+.830029914 :1 ;CRYSTAL 8.0000MHZ 16PF SMD, 8 MHz +/-30ppm Crystal 16pF 40 Ohms HC-49/US
+"830029914"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL _1" 2="CRYSTAL _2"
+*MXP 2
+*DFN 830029914
+~!Mouser Part Number (710-830029914)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830029914?qs=2WXlatMagcFLB4xuFZTwcA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830029914)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/830029914.pdf)
+~!Height (4.3mm)
+~!3D_Model (830029914)
+"830029914"
+1.1!U 2.1!U 

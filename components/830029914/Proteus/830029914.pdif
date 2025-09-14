@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "830029914"
+   (description "CRYSTAL 8.0000MHZ 16PF SMD, 8 MHz +/-30ppm Crystal 16pF 40 Ohms HC-49/US")
+   (family "OSC")
+   (package "830029914")
+   (attribute "Datasheet Link" "https://www.we-online.com/catalog/datasheet/830029914.pdf")
+   (attribute "Geometry.Height" "4.3mm")
+   (attribute "Mouser Part Number" "710-830029914")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830029914?qs=2WXlatMagcFLB4xuFZTwcA%3D%3D")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "830029914")
+   (gate
+    (symbol "830029914")
+    (pin "CRYSTAL__2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "830029914"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 120 100) (pt 120 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 140) (pt 160 -140) (pt 240 -140) (pt 240 140) (pt 160 140) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 120 0) (pt 100 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "830029914"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.7 2.45)
+      (pt 5.7 2.45)
+      (pt 5.7 -2.45)
+      (pt -5.7 -2.45)
+      (pt -5.7 2.45))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.5 3.45)
+      (pt 8.5 3.45)
+      (pt 8.5 -3.45)
+      (pt -8.5 -3.45)
+      (pt -8.5 3.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.7 1.5)
+      (pt -5.7 2.45)
+      (pt 5.7 2.45)
+      (pt 5.7 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.7 -1.5)
+      (pt -5.7 -2.4)
+      (pt 5.7 -2.45)
+      (pt 5.7 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.2 0)
+      (arc (pt -8.200 0.000) (pt -8.200 -0.050) (pt -8.100 0.050) (start 180.0) (sweep -180.0))
+      (pt -8.1 0)
+      (arc (pt -8.100 0.000) (pt -8.200 -0.050) (pt -8.100 0.050) (start 180.0) (sweep .0))
+      (pt -8.2 0)
+      (arc (pt -8.200 0.000) (pt -8.200 -0.050) (pt -8.100 0.050) (start 180.0) (sweep -180.0))
+      (pt -8.1 0))))
+   (leg 1 (pt -4.750 0.000) (padstack 0))
+   (leg 2 (pt 4.750 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.000 5.500 0 0 0.000))
+   )
+   (model "830029914.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

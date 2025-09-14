@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 830029914
+D CRYSTAL 8.0000MHZ 16PF SMD, 8 MHz +/-30ppm Crystal 16pF 40 Ohms HC-49/US
+K
+F https://www.we-online.com/catalog/datasheet/830029914.pdf
+$ENDCMP
+#
+#End Doc Library

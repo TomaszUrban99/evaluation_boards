@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=830029914
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2021-07-25 05:06:19
+Downloaded=2025-09-14 18:06:23
+3D=Y

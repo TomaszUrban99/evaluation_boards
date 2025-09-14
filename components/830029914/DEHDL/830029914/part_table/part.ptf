@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '830029914'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "830029914" (!) = "", "830029914", "Other", "710-830029914", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830029914?qs=2WXlatMagcFLB4xuFZTwcA%3D%3D", "CRYSTAL 8.0000MHZ 16PF SMD, 8 MHz +/-30ppm Crystal 16pF 40 Ohms HC-49/US", "https://www.we-online.com/catalog/datasheet/830029914.pdf", "4.3 mm"
+END_PART
+
+END.

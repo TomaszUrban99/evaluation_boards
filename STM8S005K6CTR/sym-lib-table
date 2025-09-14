@@ -3,4 +3,6 @@
   (lib (name "STM8S005K6T6CTR")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/STM8S005K6T6CTR/KiCad/STM8S005K6T6CTR.kicad_sym")(options "")(descr ""))
   (lib (name "L6981C50DR")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/L6981C50DR/KiCad/L6981C50DR.kicad_sym")(options "")(descr ""))
   (lib (name "TerminalBlock_2")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/282837-2/KiCad/282837-2.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS647SK70SMTR2N_LFS")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/PTS647SK70SMTR2N_LFS/KiCad/PTS647SK70SMTR2N_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "830029914")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/830029914/KiCad/830029914.kicad_sym")(options "")(descr ""))
 )
