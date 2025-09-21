@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADPL40502AUJZ-3.3-R7
+D Low Noise, 200mA, CMOS Linear Regulator  7 Fixed Output Voltage Options: 1.2V, 1.5V, 1.8V, 2.5V, 2.8V, 3.0V, and 3.3V
+K
+F https://www.analog.com/ADPL40502/datasheet
+$ENDCMP
+#
+#End Doc Library

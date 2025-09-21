@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADPL40502AUJZ-3.3-R7
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.1
+Released=2025-03-13 04:30:17
+Downloaded=2025-09-18 19:49:40
+3D=Y

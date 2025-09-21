@@ -7,4 +7,6 @@
   (lib (name "Wurth_744065151")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/744065151/KiCad")(options "")(descr ""))
   (lib (name "PTS647SK70SMTR2N LFS")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/PTS647SK70SMTR2N_LFS/KiCad")(options "")(descr ""))
   (lib (name "830029914_Wurth_8Mhz")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/830029914/KiCad")(options "")(descr ""))
+  (lib (name "ECS-80-33820-CVY-TR3")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/ECS-80-8-33B2Q-CVY-TR3/KiCad")(options "")(descr ""))
+  (lib (name "ADPL40502AUJZ-3.3-R7")(type "KiCad")(uri "/home/tomasz/Documents/Projekty/evaluation_boards/components/ADPL40502AUJZ-3.3-R7/KiCad")(options "")(descr ""))
 )
